@@ -1,0 +1,14 @@
+PODS:
+  - DTTestPod (0.1.0)
+
+DEPENDENCIES:
+  - DTTestPod (from `../`)
+
+EXTERNAL SOURCES:
+  DTTestPod:
+    :path: ../
+
+SPEC CHECKSUMS:
+  DTTestPod: 0b25ac1ffec1138e575b1774976c05f0e49faa8a
+
+COCOAPODS: 0.39.0

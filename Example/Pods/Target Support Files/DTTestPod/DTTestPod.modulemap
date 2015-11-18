@@ -1,0 +1,6 @@
+framework module DTTestPod {
+  umbrella header "DTTestPod-umbrella.h"
+
+  export *
+  module * { export * }
+}
