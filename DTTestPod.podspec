@@ -18,12 +18,12 @@ Pod::Spec.new do |s|
 #   * Finally, don't worry about the indent, CocoaPods strips it!  
   s.description      = " JUST A DESCRIPTION - hajfhasjkfh - ahfashkfja - ahjfhajkfha - akjhfsjkhfkjas - afasfah"
 
-  s.homepage         = "https://github.com/<GITHUB_USERNAME>/DTTestPod"
+  s.homepage         = "https://github.com/nielstj/DTTestPod"
   # s.screenshots     = "www.example.com/screenshots_1", "www.example.com/screenshots_2"
   s.license          = 'MIT'
   s.author           = { "Daniel Tjuatja" => "daniel.tjuatja@gmail.com" }
-  s.source           = { :git => "https://github.com/<GITHUB_USERNAME>/DTTestPod.git", :tag => s.version.to_s }
-  # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
+  s.source           = { :git => "https://github.com/nielstj/DTTestPod.git", :tag => s.version.to_s }
+  # s.social_media_url = 'https://twitter.com/nielstj'
 
   s.platform     = :ios, '8.0'
   s.requires_arc = true
