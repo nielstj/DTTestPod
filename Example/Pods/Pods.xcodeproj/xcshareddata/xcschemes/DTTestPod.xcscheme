@@ -14,7 +14,7 @@
             buildForArchiving = "YES">
             <BuildableReference
                BuildableIdentifier = 'primary'
-               BlueprintIdentifier = 'FC680A5820B3FBDCC044F0E7'
+               BlueprintIdentifier = '604CCBCEBCE37FB62988139F'
                BlueprintName = 'DTTestPod'
                ReferencedContainer = 'container:Pods.xcodeproj'
                BuildableName = 'DTTestPod.framework'>
